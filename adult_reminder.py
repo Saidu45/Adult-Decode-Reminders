@@ -13,7 +13,7 @@ SHEET = "Decode Tasks"
 
 # Multiple recipients can be separated with semicolons.
 EMAILS = {
-    "Rashid": "rashid@emory.edu",
+    "Rashid": "rkoroma@emory.edu",
     "Drs. Andrew/Aziz": "amosera@emory.edu;saaziz2@emory.edu",
     "Seyi": "obalog2@emory.edu",
     "Pathology Team": "adaram2@emory.edu",
